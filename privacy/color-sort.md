@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy — Color Sort: Water Puzzle
+title: "Privacy Policy — Color Sort: Water Puzzle"
 permalink: /privacy/color-sort/
 ---
 
